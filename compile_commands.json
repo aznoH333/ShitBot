@@ -1,0 +1,36 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/bot.o",
+      "src/bot.cpp"
+    ],
+    "directory": "/home/aznoh/Documents/dev/cpp/ShitBot",
+    "file": "/home/aznoh/Documents/dev/cpp/ShitBot/src/bot.cpp",
+    "output": "/home/aznoh/Documents/dev/cpp/ShitBot/src/bot.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-g",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/aznoh/Documents/dev/cpp/ShitBot",
+    "file": "/home/aznoh/Documents/dev/cpp/ShitBot/src/main.cpp",
+    "output": "/home/aznoh/Documents/dev/cpp/ShitBot/src/main.o"
+  }
+]
